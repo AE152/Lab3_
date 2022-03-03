@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using lab2;
+using lab3;
 using System;
 
-namespace lab2.Tests
+namespace lab3.Tests
 {
     [TestClass()]
     public class RomanNumberTests
